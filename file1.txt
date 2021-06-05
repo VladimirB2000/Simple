@@ -2,3 +2,4 @@ hello world
 12345
 Good bye!
 Enouph string
+Line from user1
